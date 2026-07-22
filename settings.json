@@ -1,7 +1,7 @@
 {
-  "name": "GOD_VILLAIN1",
+  "name": "Deku",
   "bot-account": {
-    "username": "GOD_VILLAIN1",
+    "username": "Deku",
     "password": "",
     "type": "offline"
   },
@@ -20,7 +20,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "VillainXSp69"
+      "password": "spidy9234"
     },
     "anti-afk": {
       "enabled": true,
@@ -51,7 +51,7 @@
       "interval": 5000
     },
     "random-jump": {
-      "enabled": true,
+      "enabled": false,
       "interval": 10000
     }
   },
